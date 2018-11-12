@@ -11,7 +11,7 @@ public class Client {
 //
 //        timeProxy2.move();
 
-        //横向扩展
+//        //横向扩展
 //        Subject timeProxy = new TimeProxy(new RealSubject2());
 //
 //        timeProxy.run();
